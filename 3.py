@@ -1,2 +1,3 @@
 def divide(a, b):
-    print(a/b)
+    x = a/b
+    print(x)
